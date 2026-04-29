@@ -207,7 +207,7 @@ The compiled PDF is also provided as `geospatial_indexing_REAL.pdf`.
 If you use this benchmark or codebase, please cite:
 
 ```bibtex
-@inproceedings{raj2026geoscale,
+@inproceedings{
   title     = {Efficient Handling of Large Geospatial Datasets Using Indexing
                Techniques: A Comprehensive Survey and Performance Analysis},
   author    = {Akanksha, Lakshay Goel, Pulastaya Bansal, Aditi Parmar and Parasdeep Singh},
