@@ -210,9 +210,7 @@ If you use this benchmark or codebase, please cite:
 @inproceedings{raj2026geoscale,
   title     = {Efficient Handling of Large Geospatial Datasets Using Indexing
                Techniques: A Comprehensive Survey and Performance Analysis},
-  author    = {Raj, Nishant and Akshita and Singh, Harmanjeet and Singh, Jobandeep
-               and Akanksha and Goel, Lakshay and Bansal, Pulastaya and
-               Parmar, Aditi and Singh, Parasdeep},
+  author    = {Akanksha Lakshay Goel, Pulastaya Bansal, Aditi Parmar and Parasdeep Singh},
   booktitle = {Proceedings of the IEEE Conference},
   year      = {2026},
   institution = {Chandigarh University, Punjab, India}
