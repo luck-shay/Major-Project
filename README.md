@@ -10,9 +10,7 @@ index framework (**GHIX**) with an MLP query router.
 ---
 
 ## Authors
-
-Nishant Raj, Akshita, Harmanjeet Singh, Jobandeep Singh, Akanksha, Lakshay Goel,
-Pulastaya Bansal, Aditi Parmar, Parasdeep Singh
+Akanksha, Lakshay Goel, Pulastaya Bansal, Aditi Parmar, Parasdeep Singh
 
 Department of AIT-CSE, Chandigarh University, Punjab, India
 
